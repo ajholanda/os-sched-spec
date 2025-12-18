@@ -1,6 +1,6 @@
 # Operating System Scheduler Specification
 
-TLA+ specs for some OS process schedulers.
+TLA+ specifications for selected operating system process schedulers.
 
 **under development**
 
